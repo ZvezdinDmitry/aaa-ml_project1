@@ -1,0 +1,6 @@
+__pycache__
+data/*
+models/*
+catboost_info
+result*
+mlp_predictions/*
